@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/tic-tac-toe",
+  "homepage": "https://niemierewelina.github.io/tic-tac-toe",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
